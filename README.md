@@ -1,1 +1,1 @@
-# first-jenkins-project
+# sample repo
